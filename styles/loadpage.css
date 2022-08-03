@@ -1,0 +1,4 @@
+body{ background-color:#232427; color:white; font-weight:200; font-size:1em;}
+header, footer, main{display:none;}
+#loadPage{ z-index:9999;position:fixed;top:0;left:0;width:100%;height: 100%;background-color:#303135;}
+#loadPage img{ position:absolute;left:50%;top:50%;transform: translate(-50%,-50%);text-align: center; width:4em; display:none; }
