@@ -4,7 +4,7 @@
             <h2>Qui suis-je ?</h2>
                 <div id="CV">
                     <figure>
-                        <img src="Images/auto-portrait-stephane-lieumont.jpg" alt="sli3d" title="portrait" />
+                        <img src="images/auto-portrait-stephane-lieumont.jpg" alt="sli3d" title="portrait" />
                     </figure>
                     <a class="btn icon SLI3D-icon" href="Documents/CV-LIEUMONT-stephane-2020-francais-Graphiste.pdf" title="CV Stéphane LEUMONT"  target="_blank" ><span class="icon-CV"></span><span class="txt-icon">CV</span></a>
                     <a class="btn icon SLI3D-icon anchor-link" href="#contact-stephane-lieumont-graphiste-3d" ><span class="icon-Mail"></span><span class="txt-icon">Contact</span></a>

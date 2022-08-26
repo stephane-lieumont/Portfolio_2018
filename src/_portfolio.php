@@ -11,7 +11,7 @@
         </div>
         <div class="grid">
             <div class="grid-loader">
-                <img alt="SLI3D - Stéphane LIEUMONT - CGArtist" title="SLI3D Logo" src="Images/Logo-sli-3D-pixmodels-portfolio002.png" />
+                <img alt="SLI3D - Stéphane LIEUMONT - CGArtist" title="SLI3D Logo" src="images/Logo-sli-3D-pixmodels-portfolio002.png" />
                 <div class="loaderPortfolio">
                     <div class="grid-load inner">
                         <div class="inner one"></div>

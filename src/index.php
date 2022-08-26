@@ -12,8 +12,8 @@
         <meta name="author" content="Stéphane Lieumont" />
         <meta property="og:title" content="SLI3D" />
         <meta property="og:type" content="portfolio" />
-        <meta property="og:image" content="https://portfolio.sli-3d.fr/Images/SLI-3D-portfolio.jpg" />
-        <meta property="og:image:url" content="https://portfolio.sli-3d.fr/Images/SLI-3D-portfolio.jpg" />
+        <meta property="og:image" content="https://portfolio.sli-3d.fr/images/SLI-3D-portfolio.jpg" />
+        <meta property="og:image:url" content="https://portfolio.sli-3d.fr/images/SLI-3D-portfolio.jpg" />
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="250" />
         <meta property="og:image:height" content="250" />
@@ -26,20 +26,20 @@
         <meta name="theme-color" content="#303135">
         <meta name="description" content="Stéphane lieumont - CG Artist Toulouse | Portfolio 3D - Zbrush, 3DSmax, Vray, Substance... ">
         <title>SLI3D | Stéphane LIEUMONT | Graphiste 3D Toulouse</title>
-        <link rel="apple-touch-icon" sizes="57x57" href="Images/Favicon/apple-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="Images/Favicon/apple-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="Images/Favicon/apple-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="Images/Favicon/apple-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="Images/Favicon/apple-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="Images/Favicon/apple-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="Images/Favicon/apple-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="Images/Favicon/apple-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="Images/Favicon/apple-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="192x192"  href="Images/Favicon/android-icon-192x192.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="Images/Favicon/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="Images/Favicon/favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="Images/Favicon/favicon-16x16.png">
-        <link rel="manifest" href="Images/Favicon/manifest.json">
+        <link rel="apple-touch-icon" sizes="57x57" href="images/Favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="images/Favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="images/Favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="images/Favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="images/Favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="images/Favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="images/Favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="images/Favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="images/Favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="images/Favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/Favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="images/Favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/Favicon/favicon-16x16.png">
+        <link rel="manifest" href="images/Favicon/manifest.json">
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script type="application/ld+json">
             {

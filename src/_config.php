@@ -9,10 +9,10 @@
     */
     session_start();
 
-    const CHEMIN_RELATIF_IMG_PORTFOLIO = 'Images/Portfolio/';
-    const CHEMIN_RELATIF_STYLES = 'Styles/';
-    const CHEMIN_RELATIF_SCRIPTS = 'Javascript/';
-    const CHEMIN_RELATIF_PLUGINS_JS = 'Javascript/Plugins/';
+    const CHEMIN_RELATIF_IMG_PORTFOLIO = 'images/portfolio/';
+    const CHEMIN_RELATIF_STYLES = 'styles/';
+    const CHEMIN_RELATIF_SCRIPTS = 'javascript/';
+    const CHEMIN_RELATIF_PLUGINS_JS = 'javascript/Plugins/';
     const MAIL_DESTINATAIRE = 'stephane-19@hotmail.fr';
 
 
@@ -22,14 +22,14 @@
     ];
     const CSS_LINKS_ASYN = [
             CHEMIN_RELATIF_STYLES.'main_style.css',
-            CHEMIN_RELATIF_STYLES.'Lightgallery.min.css',
+            CHEMIN_RELATIF_STYLES.'Lightgallery.css',
     ];
     const JAVA_LINKS = [
             CHEMIN_RELATIF_PLUGINS_JS.'jquery.min.js',
             CHEMIN_RELATIF_PLUGINS_JS.'parallaxie.min.js',
             CHEMIN_RELATIF_PLUGINS_JS.'Lightgallery-all.min.js',
-            CHEMIN_RELATIF_SCRIPTS.'SLI3D_Class_Portfolio.min.js',
-            CHEMIN_RELATIF_SCRIPTS.'SLI3D_main_1.3.min.js',                     
+            CHEMIN_RELATIF_SCRIPTS.'SLI3D_Class_Portfolio.js',
+            CHEMIN_RELATIF_SCRIPTS.'SLI3D_main_1.3.js',                     
     ];
 
     //CONFIGURATION DE LA LISTE D'IMAGES DU PORTFOLIO

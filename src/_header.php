@@ -1,5 +1,5 @@
 <header>      
-    <h1><a id="logo" class="anchor-link" title="Accueil" href="#presentation-sli3d-stephane-lieumont"><img alt="SLI3D - Stéphane LIEUMONT - CGArtist" title="SLI3D Logo" src="Images/Logo-sli-3D-pixmodels-portfolio002.png" /><br /><span>Portfolio</span><br /><span class="subtitlelogo">stephane lieumont</span></a></h1>
+    <h1><a id="logo" class="anchor-link" title="Accueil" href="#presentation-sli3d-stephane-lieumont"><img alt="SLI3D - Stéphane LIEUMONT - CGArtist" title="SLI3D Logo" src="images/Logo-sli-3D-pixmodels-portfolio002.png" /><br /><span>Portfolio</span><br /><span class="subtitlelogo">stephane lieumont</span></a></h1>
     <nav>
         <ul class="menu">
             <li class="delay1"><a id="acceuil-nav" class="anchor-link accueil" title="Accueil" href="#presentation-sli3d-stephane-lieumont">Accueil</a></li>    

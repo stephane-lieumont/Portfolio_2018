@@ -10,7 +10,7 @@
 <div align="center" >
     <table width="674" cellpadding="0" cellspacing="0" border="0" style="background:#ccc; border-bottom:3px solid #1abc9c">
 		<tr>
-            <td width="674" height="100" align="center" ><img alt="banniere" src="<?php echo 'http://'.$_SERVER['HTTP_HOST']; ?>/Images/Mail-bannere.png" height="100" width="674"></td>
+            <td width="674" height="100" align="center" ><img alt="banniere" src="<?php echo 'http://'.$_SERVER['HTTP_HOST']; ?>/images/Mail-bannere.png" height="100" width="674"></td>
         </tr>
     </table>
     <table width="674" cellpadding="0" cellspacing="0" border="0">

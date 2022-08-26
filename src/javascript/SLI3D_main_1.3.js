@@ -5,7 +5,7 @@
  */
 
 //Initialisation des constantes
-const FOLDER_IMG_MAINSLIDER	= 'Images/MainSlider/';
+const FOLDER_IMG_MAINSLIDER	= 'images/MainSlider/';
 const LIST_SECTIONS = [// LIST SECTIONS SITE
     {
         elmnt : $('#presentation-sli3d-stephane-lieumont'),
