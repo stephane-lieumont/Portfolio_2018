@@ -44,7 +44,7 @@ header, footer, main{display:block;}
 	url("../fonts/SFproDisplay.svg#SF Pro Display") format("svg"); /* iOS 4.1- */
 	font-display: swap;
 }
-body{ font-family: SF Pro Display, serif;}
+body{ font-family: SF Pro Display, serif; position: relative; width: 100vw; overflow-x: hidden ;}
 main{ width: 100%;overflow: hidden;transition: all .3s ease-in-out;}
 section{background-color:#303135;width:94%;padding:6vh 3%; position: relative;min-height: 88vh;}
 section.color2{background-color:#232427}
@@ -293,6 +293,18 @@ transform-origin: center;pointer-events: none;  min-width: 100%;
 .grid-item .grid-hover-wrap:hover .icon-list, .grid-item .grid-hover-wrap:hover .title-thumb{opacity:1;	transform: translate(-50%, 0%);}
 .desactive{pointer-events: none!important;}
 .btn.desactive{color:#808080!important;border-color:#808080!important;}
+.demo-banner {
+	position: fixed;
+  top:0;
+  right: 0;
+  background: rgba(255,255,255, 0.5);
+  padding: 10px 100px;
+  color: rgba(0,0,0,.5);
+  font-weight: 700;
+  transform: translate(70px, 50%) rotate(45deg);
+  z-index: 999;
+  opacity: 0.5;
+}
 /* PORTFOLIO CLASS END */
 /* MEDIA QUERY PORTFOLIO */
 @media (max-width:1300px){

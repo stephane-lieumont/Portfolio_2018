@@ -203,15 +203,6 @@ $(window).on('load', function(){
         if(!Portfolio.loadComplete && revealId =="portfolio"){
             PortfolioGrid.LoadPortfolio(Portfolio);            
         }
-        // Init reCAPTCHA v3
-        if(!reCAPTCHAload && revealId == "contact"){
-            //load Capchca Google
-            var timetTmp = setTimeout(function(){
-                $('body').append('<script async src="https://www.google.com/recaptcha/api.js"></script>' );
-                reCAPTCHAload = true;
-                clearTimeout(timetTmp);
-            },100)  
-        }
     }, 700)
 })
 
@@ -248,11 +239,13 @@ $(window).on('scroll', debounce(function(){
     // Init reCAPTCHA v3
     if(!reCAPTCHAload && revealId == "contact"){
         //load Capchca Google
+        /*
         var timetTmp = setTimeout(function(){
             $('body').append('<script async src="https://www.google.com/recaptcha/api.js"></script>' );
             reCAPTCHAload = true;
             clearTimeout(timetTmp);
-        },100)  
+        },100) 
+        */ 
     }
 
 }, 100));
