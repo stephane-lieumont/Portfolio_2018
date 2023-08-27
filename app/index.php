@@ -34,7 +34,7 @@
 	<body>
         <?php require '_loader.php' ?>
         <?php require '_header.php' ?>
-        <div class="demo-banner">DEMO</div>
+        <?php if( $_ENV["DEMO"] = "true" ) { echo '<div class="demo-banner">DEMO</div>'; } ?>        
         <main>
             <?php require '_accueil.php' ?>
             <?php require '_portfolio.php' ?>
