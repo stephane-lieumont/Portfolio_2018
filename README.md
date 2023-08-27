@@ -2,4 +2,4 @@
 Portfolio 2018 CGI
 
 ## Description
-Projet javascript vanilla & php 
+Projet javascript 2018 in vanilla & php for CGI
