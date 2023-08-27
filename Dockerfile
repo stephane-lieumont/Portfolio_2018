@@ -8,7 +8,7 @@ ENV DEMO ${DEMO}
 
 RUN if [ "DEMO" = "true" ] ; then mv /nginx/nginx.demo.conf /nginx/nginx.conf; fi
 
-COPY conf/nginx/nginx.conf /etc/nginx/conf.d/default.conf
+COPY nginx/nginx.conf /etc/nginx/conf.d/default.conf
 COPY ./app /var/www/html
 
 EXPOSE 80
