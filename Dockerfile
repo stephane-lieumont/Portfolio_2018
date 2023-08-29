@@ -1,17 +1,9 @@
-FROM nginx:alpine as build
-
-COPY . .
-
-ARG DEMO
-
-RUN if [ "$DEMO" = "true" ] ; then mv /nginx/nginx.demo.conf /nginx/nginx.conf ; fi
-
-FROM nginx:alpine as run
+FROM nginx:alpine
 
 ARG DEMO
 ENV DEMO ${DEMO}
 
-COPY --from=build /app /usr/share/nginx/html
-COPY --from=build /nginx/nginx.conf /etc/nginx/conf.d/default.conf
+COPY /nginx/nginx.conf /etc/nginx/templates/default.conf.template
+COPY ./app /var/www/html/portfolio2018
 
 EXPOSE 80
